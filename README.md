@@ -52,7 +52,7 @@ churn-predictor/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/churn-predictor.git
+git clone https://github.com/KaveriPolepaka/churn-predictor.git
 cd churn-predictor
 ```
 
@@ -107,4 +107,4 @@ IBM Telco Customer Churn dataset from [Kaggle](https://www.kaggle.com/datasets/b
 ## Author
 
 **Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/kaveri-p-41015728a/) · [GitHub](https://github.com/KaveriPolepaka)
